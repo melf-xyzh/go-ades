@@ -1,0 +1,1 @@
+module github.com/melf-xyzh/go-ades
